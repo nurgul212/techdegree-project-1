@@ -92,7 +92,8 @@ header .profile-image:hover {
 .good-luck{
   font-family:cursive;
   text-align: center;
-  color:tomato;
+  color:rgb(136, 29, 10);
+  text-shadow:-1px 1px 1px rgb(78, 35, 231);
 }
 .tag {
   background-color:rgba(217, 231, 241, 0.158);
@@ -159,7 +160,6 @@ img {
 
 h2{
   text-align: center;
-
 }
 .hobbies li{
   text-align: left;
