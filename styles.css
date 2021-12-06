@@ -119,6 +119,8 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #648a39;
+  transform: scale(1.1);
+
 }
 
 img {
@@ -138,6 +140,7 @@ img {
 }
 .eduexp:hover {
   border-color: #648a39;
+  transform: scale(1.1);
 }
 
 .eduexp li{
@@ -156,6 +159,7 @@ img {
 }
 .hobbies:hover {
   border-color: #066303;
+  transform: scale(1.1);
 }
 
 h2{
